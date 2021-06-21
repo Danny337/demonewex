@@ -1,0 +1,138 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background: url("fon2.png");
+}
+.top_block {
+    background: rgb(153, 217, 234);
+}
+.top_block h1 {
+    text-align: center;
+}
+.nav_block {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer {
+    background: rgb(153, 217, 234);
+    height: 50px;
+}
+.footer_block {
+    display: flex;
+    justify-content: space-around;
+}
+
+.text_block {
+    width: 50%;
+}
+.midle_index {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.img {
+    width: 250px;
+    height: 250px;
+    background: blue;
+}
+
+.otziv {
+    margin-top: 100px;
+}
+.otziv_topblock h1{
+    padding-bottom: 30px;
+    text-align: center;
+}
+.otziv_item {
+    width: 20%;
+}
+.otziv_block {
+    display: flex;
+    justify-content: space-around;
+}
+
+.akzii_item {
+    width: 20%;
+}
+.akzii_block {
+    display: flex;
+    justify-content: space-around;    
+}
+.akzii_topblock {
+    text-align: center;
+    margin-top: 100px;
+    padding-bottom: 30px;
+}
+
+.sub_block {
+    display: flex;
+    justify-content: center;
+}
+.sub {
+    margin-top: 30px;
+    padding-bottom: 20px;
+}
+.kl {
+    padding-left: 50px;
+    padding-right: 20px;
+}
+
+.hz {
+    padding-bottom: 30px;
+}
+.hz_block {
+    display: flex;
+    justify-content: space-around;
+}
+.hz_item button{
+    width: 50px;
+    height: 50px;
+}
+.hz_item button:hover{
+    background: red;
+    cursor: pointer;
+}
+
+.left_block {
+    width: 400px;
+    text-align: center;
+}
+.right_block {
+    width: 400px;
+    text-align: center;
+}
+.main_block {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.leftLoc_block {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.rightLoc_block {
+    display: flex;
+    justify-content: center;    
+}
+.firstLoc {
+    padding-right: 30px;
+}
+fieldset {
+    padding: 30px;
+}
+
+.dan {
+    text-align: center;
+}
+.dop {
+    text-align: center;
+}
+.com {
+    text-align: center;
+}
